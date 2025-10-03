@@ -11,7 +11,7 @@
 /**
  * Cinco dados - cinco-dados.php
  *
- * @author Ernesto Ramirez
+ * @author Alberto Lopez
  *
  */
 define('NUMDADOS', 5);
