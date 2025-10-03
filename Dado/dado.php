@@ -11,7 +11,7 @@
 /**
  * Cinco dados - cinco-dados.php
  *
- * @author Alberto López
+ * @author Ernesto Ramirez
  *
  */
 define('NUMDADOS', 5);
@@ -149,9 +149,6 @@ $msgGanador    = generarMensajeGanador($puntosJugado1, $puntosJugado2);
     </tbody>
   </table>
 
-  <footer>
-    <p><u>By Alberto López</u></p>
-  </footer>
 </body>
 
 </html>
